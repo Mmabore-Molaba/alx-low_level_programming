@@ -5,3 +5,4 @@ Script 1-Same as Script 0, with conditions on the task
 Script 2-Write a program that prints the alphabet in lowercase, followed by a new line- in putchar
 Script 3-Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 Script 4-Write a program that prints the alphabet in lowercase, followed by a new line.Print all the letters except q and e
+Script 5-Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
