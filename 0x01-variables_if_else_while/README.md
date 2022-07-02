@@ -4,3 +4,4 @@ Script 0-This program will assign a random number to the variable n each time it
 Script 1-Same as Script 0, with conditions on the task
 Script 2-Write a program that prints the alphabet in lowercase, followed by a new line- in putchar
 Script 3-Write a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+Script 4-Write a program that prints the alphabet in lowercase, followed by a new line.Print all the letters except q and e
