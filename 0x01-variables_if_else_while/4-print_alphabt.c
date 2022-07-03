@@ -2,9 +2,9 @@
 /**
 *	main - alphabet in lowercase, followed by a new line.
 *
-*	Description: Prints letter a-z in lower case,except p and e
+*	Description: Prints letter a-z in lower case, except p and e
 *
-*	Retuern: 0
+*	Return: 0
 */
 
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 
 	while (letter <= 'z')
 	{
-		if (letter =='q' || letter == 'e')
+		if (letter == 'q' || letter == 'e')
 		{
 			letter++;
 			continue;
@@ -26,4 +26,5 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
+
 }
