@@ -11,4 +11,5 @@ Script 7- Write a program that prints the lowercase alphabet in reverse, followe
 Script 8- Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 Script 9- Write a program that prints all possible combinations of single-digit numbers
 Script 10-Write a program that prints all possible different combinations of two digits.
-Script 11-Write a program that prints all possible different combinations of three digits.
+Script 11-Write a program that prints all possible different combinations of three digits
+Script 12 - Write a program that prints all possible combinations of two two-digit numbers.
