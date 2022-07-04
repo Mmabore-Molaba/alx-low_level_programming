@@ -19,7 +19,7 @@ int main(void)
 			for (q = p + 1; q <= '9'; q++)
 			{
 				if ((p != d) != q)
-				{	
+				{
 					putchar(d);
 					putchar(p);
 					putchar(q);
@@ -31,7 +31,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-		}		
+		}
 	}
 	putchar('\n');
 
