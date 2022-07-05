@@ -1,4 +1,4 @@
-#iclude "main.h"
+#include "main.h"
 /**
 *	print_alphabet_x10 - Check holberton
 *	Description: function uses _putchar function to print
