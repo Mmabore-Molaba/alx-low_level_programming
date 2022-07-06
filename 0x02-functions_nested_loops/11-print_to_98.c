@@ -20,6 +20,6 @@ while (n > 98)
 	n--;
 }
 
-print("98");
+printf("98");
 putchar('\n');
 }
