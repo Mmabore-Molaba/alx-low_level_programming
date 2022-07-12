@@ -4,3 +4,7 @@ Script 1-Write a function that swaps the values of two integers.
 Script 2-Write a function that returns the length of a string.
 Script 3-Write a function that prints a string, followed by a new line, to stdout
 Script 4-Write a function that prints a string, in reverse, followed by a new line.
+Script 5-Write a function that reverses a string
+Script 6-Write a function that prints every other character of a string, starting with the first character, followed by a new line.
+Script 7-Write a function that prints half of a string, followed by a new line
+Script 8-Write a function that prints n elements of an array of integers, followed by a new line
