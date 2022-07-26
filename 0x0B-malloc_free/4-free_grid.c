@@ -3,7 +3,7 @@
 /**
  * free_grid - removing memory allocation
  * @grid: grid to be freed
- * @heigh: height of matrix
+ * @height: height of matrix
  * Return: nothing
 */
 void free_grid(int **grid, int height)
